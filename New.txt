@@ -1,0 +1,3 @@
+This is a new file.
+Now this is in staged state from untracked stage.
+So after modification it moves to modified state.
